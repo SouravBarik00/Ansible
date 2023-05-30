@@ -13,7 +13,7 @@
      group: webserver
      count: 1
      region: us-east-2
-     security_group: ansible
+     security_group: ec2-security-group
    
    tasks:
 
